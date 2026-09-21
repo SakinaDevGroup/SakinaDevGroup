@@ -8,11 +8,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=9C7CF4&center=true&vCenter=true&width=620&lines=Islamic+applications+for+the+Tajik+language;Open+Qur'an+datasets+%E2%80%94+free+for+everyone;Sakina+%E2%80%94+live+on+Google+Play;Qur'an+%C2%B7+Athkar+%C2%B7+Prayer+times+%C2%B7+Hajj" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=9C7CF4&center=true&vCenter=true&width=620&lines=Islamic+applications+for+the+Tajik+language;Open+Qur'an+datasets+%E2%80%94+free+for+everyone;Sakina+%26+Sakina+Quran+%E2%80%94+live+on+Google+Play;Qur'an+%C2%B7+Athkar+%C2%B7+Prayer+times+%C2%B7+Hajj" alt="Typing SVG" />
 
 <br>
 
 [![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina%20Quran-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app&hl=en)
 ![Datasets](https://img.shields.io/badge/Open%20datasets-8%20repositories-9C7CF4?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Free%20data-~68%20MB-1E1B4B?style=for-the-badge)
 
@@ -40,7 +41,7 @@ so any developer can build on it.
 
 ---
 
-## Our application
+## Our applications
 
 <div align="center">
 
@@ -59,6 +60,28 @@ and a step-by-step Hajj and Umrah guide — in Tajik.
 |:---:|:---:|:---:|:---:|
 | **604** | **114** | **9** | **99** |
 | Mushaf pages | surahs | reciters | names of Allah |
+
+<br>
+
+<div align="center">
+
+### Sakina Quran
+
+The Holy Qur'an in Tajik — the Ayati translation, transliteration and
+tafsir *Osonbayon*, four Mushaf styles, 40+ reciters, prayer times,
+Qibla and Sahih al-Bukhari in Tajik and Russian.
+
+[![Install](https://img.shields.io/badge/Install-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app&hl=en)
+[![Details](https://img.shields.io/badge/Screenshots%20%26%20details-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup/sakina-quran-showcase)
+
+</div>
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **4** | **40+** | **2,232** | **26** |
+| Mushaf styles | reciters | hadiths of al-Bukhari | interface languages |
+
+<p align="center"><sub>Built on the open-source <a href="https://github.com/IsmailHosenIsmailJames/al_quran_v3">Al Quran v3</a> by Ismail Hosen (James).</sub></p>
 
 ---
 
@@ -101,12 +124,12 @@ flowchart LR
     A([Printed Mushaf and sources]) --> B[Digitising and proofreading]
     B --> C[Structuring into JSON]
     C --> D[Public release on GitHub]
-    D --> E[Sakina app]
+    D --> E[Sakina apps]
     D --> F([Any other developer])
 ```
 
 We do not keep the pipeline private. The same files that ship inside
-Sakina are the ones published in the releases.
+our apps are the ones published in the releases.
 
 ---
 
@@ -154,7 +177,7 @@ and the App Store.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SakinaDevGroup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup)
-[![Google Play](https://img.shields.io/badge/Our%20app-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
 
 <br>
 

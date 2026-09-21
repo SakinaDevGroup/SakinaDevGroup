@@ -9,6 +9,7 @@
 <br>
 
 [![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina%20Quran-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app)
 ![Маҷмӯаҳо](https://img.shields.io/badge/Маҷмӯаҳои%20кушода-8%20репозиторий-9C7CF4?style=for-the-badge)
 ![Ҳаҷм](https://img.shields.io/badge/Маълумот-~68%20МБ-1E1B4B?style=for-the-badge)
 
@@ -36,7 +37,7 @@
 
 ---
 
-## Барномаи мо
+## Барномаҳои мо
 
 <div align="center">
 
@@ -55,6 +56,28 @@
 |:---:|:---:|:---:|:---:|
 | **604** | **114** | **9** | **99** |
 | саҳифаи мусҳаф | сура | қорӣ | номи Аллоҳ |
+
+<br>
+
+<div align="center">
+
+### Sakina Quran
+
+Қуръони Карим бо забони тоҷикӣ — тарҷумаи Оятӣ, транскрипсия ва
+тафсири «Осонбаён», чор намуди мусҳаф, 40+ қорӣ, вақти намоз,
+Қибла ва «Саҳеҳи Бухорӣ» бо тоҷикӣ ва русӣ.
+
+[![Насб кардан](https://img.shields.io/badge/Насб%20кардан-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app)
+[![Муфассал](https://img.shields.io/badge/Намоишҳо%20ва%20тавсиф-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup/sakina-quran-showcase)
+
+</div>
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **4** | **40+** | **2 232** | **26** |
+| намуди мусҳаф | қорӣ | ҳадиси Бухорӣ | забони интерфейс |
+
+<p align="center"><sub>Дар асоси лоиҳаи кушодаи <a href="https://github.com/IsmailHosenIsmailJames/al_quran_v3">Al Quran v3</a> аз Ismail Hosen (James) сохта шудааст.</sub></p>
 
 ---
 
@@ -97,11 +120,11 @@ flowchart LR
     A([Мусҳафи чопӣ ва сарчашмаҳо]) --> B[Рақамгардонӣ ва тасҳеҳ]
     B --> C[Сохторбандӣ ба JSON]
     C --> D[Релизи оммавӣ дар GitHub]
-    D --> E[Барномаи Sakina]
+    D --> E[Барномаҳои Sakina]
     D --> F([Ҳар барномасози дигар])
 ```
 
-Мо ин равандро пинҳон намедорем. Ҳамон файлҳое, ки дар дохили Sakina ҳастанд,
+Мо ин равандро пинҳон намедорем. Ҳамон файлҳое, ки дар дохили барномаҳои мо ҳастанд,
 дар релизҳо нашр шудаанд.
 
 ---
@@ -150,7 +173,7 @@ flowchart LR
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SakinaDevGroup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup)
-[![Google Play](https://img.shields.io/badge/Барномаи%20мо-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
 
 <br>
 

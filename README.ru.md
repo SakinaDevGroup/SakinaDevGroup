@@ -9,6 +9,7 @@
 <br>
 
 [![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina%20Quran-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app&hl=ru)
 ![Наборы данных](https://img.shields.io/badge/Открытых%20наборов-8%20репозиториев-9C7CF4?style=for-the-badge)
 ![Объём](https://img.shields.io/badge/Данных-~68%20МБ-1E1B4B?style=for-the-badge)
 
@@ -36,7 +37,7 @@
 
 ---
 
-## Наше приложение
+## Наши приложения
 
 <div align="center">
 
@@ -55,6 +56,28 @@
 |:---:|:---:|:---:|:---:|
 | **604** | **114** | **9** | **99** |
 | страницы мусхафа | суры | чтецов | имён Аллаха |
+
+<br>
+
+<div align="center">
+
+### Sakina Quran
+
+Священный Коран на таджикском — перевод Аяти, транскрипция и
+тафсир «Осонбаён», четыре вида мусхафа, 40+ чтецов, время намаза,
+Кибла и «Сахих аль-Бухари» на таджикском и русском.
+
+[![Установить](https://img.shields.io/badge/Установить-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=sakina.quran.app&hl=ru)
+[![Подробнее](https://img.shields.io/badge/Скриншоты%20и%20описание-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup/sakina-quran-showcase)
+
+</div>
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **4** | **40+** | **2 232** | **26** |
+| вида мусхафа | чтецов | хадиса аль-Бухари | языка интерфейса |
+
+<p align="center"><sub>Создано на основе открытого проекта <a href="https://github.com/IsmailHosenIsmailJames/al_quran_v3">Al Quran v3</a> автора Ismail Hosen (James).</sub></p>
 
 ---
 
@@ -97,11 +120,11 @@ flowchart LR
     A([Печатный мусхаф и источники]) --> B[Оцифровка и вычитка]
     B --> C[Структурирование в JSON]
     C --> D[Публичный релиз на GitHub]
-    D --> E[Приложение Sakina]
+    D --> E[Приложения Sakina]
     D --> F([Любой другой разработчик])
 ```
 
-Мы не держим этот процесс в тайне. Те же файлы, что лежат внутри Sakina,
+Мы не держим этот процесс в тайне. Те же файлы, что лежат внутри наших приложений,
 опубликованы в релизах.
 
 ---
@@ -150,7 +173,7 @@ flowchart LR
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SakinaDevGroup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakinaDevGroup)
-[![Google Play](https://img.shields.io/badge/Наше%20приложение-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
+[![Google Play](https://img.shields.io/badge/Sakina-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sakina.sa&hl=en)
 
 <br>
 
